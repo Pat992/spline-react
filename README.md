@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 ## Spline in the readme?
+![](./embed.svg)
+
 <&lt;iframe src='https://my.spline.design/untitled-6fe176a4b9f0dc21c5c5ab6866178134/' frameborder='0' width='100%' height='100%'&gt;></&lt;iframe&gt;>
 
 <script src="http://gist-it.appspot.com/https://my.spline.design/untitled-6fe176a4b9f0dc21c5c5ab6866178134/"></script>
