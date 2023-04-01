@@ -5,6 +5,8 @@
 
 <script src="http://gist-it.appspot.com/https://my.spline.design/untitled-6fe176a4b9f0dc21c5c5ab6866178134/"></script>
 
+ <iframe frameborder=0 style="min-width: 200px; width: 60%; height: 460px;" scrolling="no" seamless="seamless" srcdoc='<html><body><style type="text/css">.gist .gist-data { height: 400px; }</style><iframe src="https://my.spline.design/untitled-6fe176a4b9f0dc21c5c5ab6866178134/"></iframe></body></html>'></iframe>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
